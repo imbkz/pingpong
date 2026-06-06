@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 479,
-    "timeDay": 479,
-    "timeWeek": 479,
-    "timeMonth": 479,
-    "timeYear": 479,
+    "time": 465,
+    "timeDay": 465,
+    "timeWeek": 465,
+    "timeMonth": 465,
+    "timeYear": 465,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 418,
-    "timeDay": 418,
-    "timeWeek": 418,
-    "timeMonth": 418,
-    "timeYear": 418,
+    "time": 382,
+    "timeDay": 382,
+    "timeWeek": 382,
+    "timeMonth": 382,
+    "timeYear": 382,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "TEST - delete me",
-    "url": "https://this-domain-does-not-exist-12345.com/",
-    "icon": "https://icons.duckduckgo.com/ip3/this-domain-does-not-exist-12345.com.ico",
-    "slug": "test-delete-me",
-    "status": "down",
-    "uptime": "72.92%",
-    "uptimeDay": "72.92%",
-    "uptimeWeek": "72.92%",
-    "uptimeMonth": "72.92%",
-    "uptimeYear": "72.92%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-06-06": 0
-    }
   }
 ]
