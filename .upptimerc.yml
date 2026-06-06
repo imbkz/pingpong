@@ -8,7 +8,7 @@ sites:
     url: https://www.caclubindia.com/forum/display.asp
   - name: LawyersClubIndia
     url: https://www.lawyersclubindia.com/forum/display.asp
-    - name: CAclubindianet
+  - name: CAclubindianet
     url: https://www.caclubindia.net/webhook.php
 
 # Auto-assign downtime issues to you
