@@ -1,7 +1,7 @@
 url: https://www.caclubindia.net/webhook.php
-status: down
-code: 500
-responseTime: 186
-lastUpdated: 2026-06-06T08:41:13.880Z
+status: up
+code: 200
+responseTime: 291
+lastUpdated: 2026-06-06T09:18:35.806Z
 startTime: 2026-06-06T08:18:19.886Z
 generator: Upptime <https://github.com/upptime/upptime>
