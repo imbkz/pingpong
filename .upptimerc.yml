@@ -8,8 +8,6 @@ sites:
     url: https://www.caclubindia.com/
   - name: LawyersClubIndia
     url: https://lawyersclubindia.com/
-  - name: TEST - delete me
-    url: https://this-domain-does-not-exist-12345.com/
 
 # Auto-assign downtime issues to you
 assignees:
