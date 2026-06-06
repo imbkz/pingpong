@@ -5,9 +5,11 @@ repo: pingpong
 # Sites to monitor
 sites:
   - name: CAclubindia
-    url: https://www.caclubindia.com/
+    url: https://www.caclubindia.com/forum/display.asp
   - name: LawyersClubIndia
-    url: https://lawyersclubindia.com/
+    url: https://www.lawyersclubindia.com/forum/display.asp
+    - name: CAclubindianet
+    url: https://www.caclubindia.net/webhook.php
 
 # Auto-assign downtime issues to you
 assignees:
