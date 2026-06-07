@@ -4,19 +4,19 @@
     "url": "https://www.caclubindia.com/forum/display.asp",
     "icon": "https://icons.duckduckgo.com/ip3/www.caclubindia.com.ico",
     "slug": "c-aclubindia",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
-    "time": 660,
-    "timeDay": 1220,
-    "timeWeek": 660,
-    "timeMonth": 660,
-    "timeYear": 660,
+    "status": "up",
+    "uptime": "96.64%",
+    "uptimeDay": "94.59%",
+    "uptimeWeek": "96.64%",
+    "uptimeMonth": "96.64%",
+    "uptimeYear": "96.64%",
+    "time": 630,
+    "timeDay": 835,
+    "timeWeek": 630,
+    "timeMonth": 630,
+    "timeYear": 630,
     "dailyMinutesDown": {
-      "2026-06-07": 5
+      "2026-06-07": 78
     }
   },
   {
@@ -42,19 +42,20 @@
     "url": "https://www.caclubindia.net/webhook.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.caclubindia.net.ico",
     "slug": "c-aclubindianet",
-    "status": "down",
-    "uptime": "98.27%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.27%",
-    "uptimeMonth": "98.27%",
-    "uptimeYear": "98.27%",
-    "time": 282,
-    "timeDay": 397,
-    "timeWeek": 282,
-    "timeMonth": 282,
-    "timeYear": 282,
+    "status": "up",
+    "uptime": "95.07%",
+    "uptimeDay": "94.93%",
+    "uptimeWeek": "95.07%",
+    "uptimeMonth": "95.07%",
+    "uptimeYear": "95.07%",
+    "time": 267,
+    "timeDay": 302,
+    "timeWeek": 267,
+    "timeMonth": 267,
+    "timeYear": 267,
     "dailyMinutesDown": {
-      "2026-06-06": 37
+      "2026-06-06": 37,
+      "2026-06-07": 73
     }
   }
 ]
