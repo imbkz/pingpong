@@ -4,15 +4,15 @@
     "url": "https://www.caclubindia.com/forum/display.asp",
     "icon": "https://icons.duckduckgo.com/ip3/www.caclubindia.com.ico",
     "slug": "c-aclubindia",
-    "status": "down",
-    "uptime": "97.31%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "97.31%",
-    "uptimeYear": "97.31%",
+    "status": "up",
+    "uptime": "97.37%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "97.37%",
+    "uptimeYear": "97.37%",
     "time": 912,
-    "timeDay": 0,
-    "timeWeek": 1337,
+    "timeDay": 885,
+    "timeWeek": 1376,
     "timeMonth": 912,
     "timeYear": 912,
     "dailyMinutesDown": {
@@ -22,9 +22,7 @@
       "2026-06-12": 201,
       "2026-06-11": 50,
       "2026-06-15": 111,
-      "2026-06-19": 141,
-      "2026-06-29": 4,
-      "2026-06-28": 9
+      "2026-06-19": 141
     }
   },
   {
@@ -33,14 +31,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lawyersclubindia.com.ico",
     "slug": "lawyers-club-india",
     "status": "up",
-    "uptime": "65.90%",
+    "uptime": "66.17%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "66.57%",
-    "uptimeMonth": "65.90%",
-    "uptimeYear": "65.90%",
+    "uptimeWeek": "69.15%",
+    "uptimeMonth": "66.17%",
+    "uptimeYear": "66.17%",
     "time": 907,
     "timeDay": 334,
-    "timeWeek": 414,
+    "timeWeek": 453,
     "timeMonth": 907,
     "timeYear": 907,
     "dailyMinutesDown": {
@@ -62,14 +60,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.caclubindia.net.ico",
     "slug": "c-aclubindianet",
     "status": "up",
-    "uptime": "96.73%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "96.73%",
-    "uptimeYear": "96.73%",
+    "uptime": "96.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.78%",
+    "uptimeYear": "96.78%",
     "time": 286,
     "timeDay": 373,
-    "timeWeek": 334,
+    "timeWeek": 329,
     "timeMonth": 286,
     "timeYear": 286,
     "dailyMinutesDown": {
@@ -80,9 +78,7 @@
       "2026-06-12": 195,
       "2026-06-11": 49,
       "2026-06-15": 110,
-      "2026-06-19": 141,
-      "2026-06-29": 4,
-      "2026-06-28": 4
+      "2026-06-19": 141
     }
   }
 ]
