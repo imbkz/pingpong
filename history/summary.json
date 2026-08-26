@@ -4,12 +4,12 @@
     "url": "https://www.caclubindia.com/forum/display.asp",
     "icon": "https://icons.duckduckgo.com/ip3/www.caclubindia.com.ico",
     "slug": "c-aclubindia",
-    "status": "up",
-    "uptime": "97.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "97.90%",
+    "status": "down",
+    "uptime": "97.91%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "97.91%",
     "time": 967,
     "timeDay": 1186,
     "timeWeek": 911,
@@ -32,7 +32,8 @@
       "2026-07-19": 186,
       "2026-07-21": 214,
       "2026-08-08": 26,
-      "2026-08-16": 42
+      "2026-08-16": 42,
+      "2026-08-26": 5
     }
   },
   {
@@ -41,11 +42,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lawyersclubindia.com.ico",
     "slug": "lawyers-club-india",
     "status": "up",
-    "uptime": "89.62%",
+    "uptime": "89.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.62%",
+    "uptimeYear": "89.72%",
     "time": 592,
     "timeDay": 408,
     "timeWeek": 385,
@@ -74,12 +75,12 @@
     "url": "https://www.caclubindia.net/webhook.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.caclubindia.net.ico",
     "slug": "c-aclubindianet",
-    "status": "up",
-    "uptime": "98.54%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.56%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "98.54%",
+    "uptimeYear": "98.56%",
     "time": 304,
     "timeDay": 535,
     "timeWeek": 299,
@@ -99,7 +100,8 @@
       "2026-07-05": 109,
       "2026-07-19": 130,
       "2026-08-08": 21,
-      "2026-08-16": 38
+      "2026-08-16": 38,
+      "2026-08-26": 0
     }
   }
 ]
